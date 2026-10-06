@@ -1,0 +1,50 @@
+am 2
+  file2.txt 1
+  file1.txt 1
+are 1
+  file1.txt 2
+bye 1
+  file1.txt 1
+finr 1
+  file3.txt 1
+glad 1
+  file3.txt 1
+good 3
+  file3.txt 1
+  file2.txt 1
+  file1.txt 1
+hlooo 2
+  file3.txt 1
+  file2.txt 1
+hiii 2
+  file2.txt 1
+  file1.txt 1
+how 2
+  file2.txt 1
+  file1.txt 1
+is 1
+  file2.txt 1
+i 2
+  file2.txt 1
+  file1.txt 1
+nice 1
+  file3.txt 1
+not 1
+  file2.txt 1
+ok 3
+  file3.txt 1
+  file2.txt 1
+  file1.txt 1
+place 1
+  file2.txt 1
+see 1
+  file3.txt 1
+to 1
+  file3.txt 1
+this 1
+  file2.txt 1
+who 1
+  file1.txt 1
+you 2
+  file3.txt 2
+  file1.txt 2
